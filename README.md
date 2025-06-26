@@ -1,5 +1,3 @@
-# MedCare
-MedCare, an Android app for centralized healthcare access featuring EMR, AI symptom checker (Infermedica), doctor booking, map-based hospital locator, offline drug library, and reminders—highlighting my passion for AI-driven health tech.
 # MedCare – Centralized Healthcare Access App 💊📱
 
 An award-winning Android prototype designed to improve access to healthcare services in underserved regions. Built as part of the **2nd INAE Youth Conclave** at **IIT Kharagpur**, our team (Team T144) secured **3rd place** and received a **cash prize of ₹25,000**.
@@ -7,7 +5,7 @@ An award-winning Android prototype designed to improve access to healthcare serv
 ## 🏆 Highlights
 - 👥 Team of 5 | Team T144
 - 🥉 3rd Prize Winner – INAE Youth Conclave 2018
-- 🎓 Organized by Indian National Academy of Engineering (INAE)
+- 🎓 Organized by Indian National Academy of Engineering (INAE) at Indian Institute of Technology, Kharagpur
 
 ## 🚀 Features
 - Electronic Medical Records (EMR) for prescriptions & scans
@@ -19,10 +17,10 @@ An award-winning Android prototype designed to improve access to healthcare serv
 
 ## 🎥 Demo Video
 Although the APK is no longer available due to discontinued cloud deployment, you can watch the **demo video** showcasing the full app experience:  
-👉 [Watch the MedCare Demo](#) <!-- Replace # with YouTube or Drive link -->
+👉 [Watch the MedCare Demo](https://drive.google.com/file/d/1FOeshRXG-9CrruiAGCXvnYDBWx04A0bE/view?usp=sharing)
 
 ## 📄 Documentation
-- [MedCare_Operation_Manual.pdf](./MedCare_Operation_Manual.pdf) — User and Technical Manual
+- [MedCare_Operation_Manual.pdf] — User and Technical Manual
 
 ## 💡 Background
 Developed in August 2018, MedCare was created to provide a one-stop solution for medical needs using mobile technology and AI. This project sparked my early interest in **healthcare innovation** and **AI-powered solutions**.
