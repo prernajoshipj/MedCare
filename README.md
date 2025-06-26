@@ -20,7 +20,7 @@ Although the APK is no longer available due to discontinued cloud deployment, yo
 👉 [Watch the MedCare Demo](https://drive.google.com/file/d/1FOeshRXG-9CrruiAGCXvnYDBWx04A0bE/view?usp=sharing)
 
 ## 📄 Documentation
-- [MedCare_Operation_Manual.pdf] — User and Technical Manual
+- [MedCare_Operation_Manual.pdf](./MedCare_Operation_Manual.pdf) — User and Technical Manual
 
 ## 💡 Background
 Developed in August 2018, MedCare was created to provide a one-stop solution for medical needs using mobile technology and AI. This project sparked my early interest in **healthcare innovation** and **AI-powered solutions**.
