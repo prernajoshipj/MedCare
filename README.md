@@ -1,4 +1,4 @@
-# MedCare – Centralized Healthcare Access App 💊📱
+# MedCare – Centralized Healthcare Access App - A Touch Towards Health💊📱
 
 An award-winning Android prototype designed to improve access to healthcare services in underserved regions. Built as part of the **2nd INAE Youth Conclave** at **IIT Kharagpur**, our team (Team T144) secured **3rd place** and received a **cash prize of ₹25,000**.
 
